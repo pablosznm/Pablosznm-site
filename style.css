@@ -1,0 +1,5 @@
+/* style.css */
+body { background: #000; color:#eee; font-family: sans-serif; }
+.floating-icons img { width:60px; height:60px; opacity:0.15; position:absolute; }
+.hub-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:20px; }
+.hub-card img { width:100px; height:100px; border-radius:15px; }
